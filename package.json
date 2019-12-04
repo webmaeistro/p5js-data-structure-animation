@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/webmaeistro/p5js-data-structure-animation.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/webmaeistro/p5js-data-structure-animation/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme"
+  "homepage": "https://github.com/webmaeistro/p5js-data-structure-animation#readme"
 }
